@@ -19,25 +19,34 @@ Tech Stack
 
  How to Run
 
-1️⃣ Clone the project
+1️ Clone the project
 
 git clone https://github.com/Mojtaba1227/productify-api.git
 cd productify-api
 
-2️⃣ Install dependencies
+2️ Install dependencies
 
 npm install
 
-3️⃣ Set up the database
+3️ Set up the database
 Make sure you have PostgreSQL installed and running.
 
-4️⃣ Start the server with nodemon
+4️ Start the server with nodemon
 
 npm run dev
 
 (This runs the server using nodemon so it restarts automatically when you make changes.)
 
 The API will run at http://localhost:3000
-🔍 API Docs
+ API Docs
 
-Check the API documentation at http://localhost:3000/swagger
+Check the API documentation at http://localhost:3000/swaggerContributing
+
+Contributing
+
+Still learning! Open to feedback and improvements.
+
+License
+MIT License.
+
+
