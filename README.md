@@ -43,7 +43,9 @@ npm run dev
 The API will run at http://localhost:3000
 
 API Docs
-Check the API documentation at http://localhost:3000/swaggerContributing
+Check the API documentation at http://localhost:3000/swagger
+
+
 
 Contributing
 Still learning! Open to feedback and improvements.
