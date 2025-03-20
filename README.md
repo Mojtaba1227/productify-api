@@ -32,6 +32,7 @@ npm install
 
 4 Set up the database
 Make sure you have PostgreSQL installed and running.
+
 check my PRODUCTS.sql file
 
 5 Start the server with nodemon
